@@ -1,3 +1,4 @@
 <Solution>
   <Project Path="ExpenseManager-web/ExpenseManager-web.csproj" />
+  <Project Path="FamilyExpenseManager-Data/FamilyExpenseManager-Data.csproj" Id="8c0c92a3-338e-4e58-bf6e-9e16a497c70c" />
 </Solution>
