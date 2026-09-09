@@ -9,4 +9,9 @@
     <BlazorDisableThrowNavigationException>true</BlazorDisableThrowNavigationException>
   </PropertyGroup>
 
+  <ItemGroup>
+    <ProjectReference Include="..\FamilyExpenseManager-Data\FamilyExpenseManager-Data.csproj" />
+    <ProjectReference Include="..\FamilyExpenseManager-Shared\FamilyExpenseManager-Shared.csproj" />
+  </ItemGroup>
+
 </Project>
